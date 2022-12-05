@@ -1,3 +1,5 @@
+// Program that calculates the area of a circle
+
 import java.util.Scanner;
 
 public class CircleArea
