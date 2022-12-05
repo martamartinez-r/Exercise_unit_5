@@ -1,3 +1,5 @@
+//Program that calculates the sum of several ages.
+
 import java.util.Scanner;
 
 public class Ages
